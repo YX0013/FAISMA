@@ -1,0 +1,112 @@
+[
+  {
+    "style": "Graphite",
+    "description": "Graphite is the most popular writing and drawing tool in the world, a crystalline carbon form known for its signature dull metallic grey color and soft, brittle texture. Most commonly in the form of pencils, graphite pencils come in many levels of hardness based on the clay-graphite ratio -- 9H being the hardest (and thus the lightest) and 9B being the softest (and thus the darkest). Graphite is easy to draw with an can produce a variety of strokes and textures on paper or vellum, and can be easily erased and blended using blending stumps and tortillons. Thin and sharp graphite pencils can be used to create incredible detail within drawings, as well as incredible contrast using the different hardnesses of the pencils.",
+    "supplies": "graphite pencils (the standards are 2B, B, HB, H and 2H), graphite sticks [optional] (usually 4B, 6B and 8B), bristol drawing paper or sketchbook, white stick eraser, kneaded eraser, blending stumps and tortillons, pencil sharpener",
+    "difficulty": "6/10",
+    "cost": "$",
+    "image_1": "image_25",
+    "image_2": "image_26",
+    "image_3": "image_27",
+    "tutorial": "https://www.youtube.com/watch?v=u-q9cdtQIIM"
+  },
+  {
+    "style": "Charcoal",
+    "description": "Charcoal is a widely popular medium used in artist studies, one that takes little time to prepare and that is fantastic at defining big shapes and movement within an art piece. The charred wood comes in countless shapes and textures, from vine charcoal (a super light, thin, easy-to erase charcoal) to the super-dense and super-black charcoal sticks. It also comes in pencil forms, which are usually more permanent, and even a powder form for shading large areas. It is the most fantastic medium if you're looking for contrast, and pieces can be created within minutes. Charcoal is the most free form of drawing among all drawing mediums.",
+    "supplies": "willow charcoal, vine charcoal, compressed charcoal sticks (soft, medium, and hard), white charcoal pencil, charcoal powder (optional), charcoal pencils (soft, medium, and hard), textured paper or pastel paper, kneaded eraser, blending stumps, pencil sharpener, drawing fixative (to prevent the easy smearing from the charcoal medium)",
+    "difficulty": "3/10",
+    "cost": "$",
+    "image_1": "image_19",
+    "image_2": "image_20",
+    "image_3": "image_21",
+    "tutorial": "https://www.youtube.com/watch?v=8GADVUB1xPY"
+  },
+  {
+    "style": "Colored Pencil",
+    "description": "Colored pencil is essentially the colorful form of graphite art, with the exception that colored pencils are much more difficult to blend and erase and are usually refined by layering more color onto a drawing. High-quality colored pencils are essential for high-quality drawings, but they can become quite expensive once you start using professional-level colored pencils. The medium also requires incredible attention to detail, patience, and good knowledge of color theory to both achieve contrast and harmony within a piece. There are a variety of types of colored pencils, and other opaque mediums are often used to enhance a drawing. Unlike graphite or charcoal, in which large areas can be filled by shading with a blending stick, colored pencil has to be manually added to completely fill and blend a shape, making the practice very complex and time-consuming. Though, seeing some artists' mesmerizing work, it is definitely worth it.",
+    "supplies": "Student-grade or artist-grade colored pencils (mainstream brands include PrismaColor and Faber-Castell), sand eraser (or any tough eraser that erases colored pencil) [at least 24 colors], drawing paper or smooth canvas paper, pencil sharpener, white highlighting pen (optional, but often used)",
+    "difficulty": "8/10",
+    "cost": "$$$",
+    "image_1": "image_6",
+    "image_2": "image_7",
+    "image_3": "image_8",
+    "tutorial": "https://www.youtube.com/watch?v=hhpQJkquioU"
+  },
+  {
+    "style": "Oil Pastel",
+    "description": "Oil pastels are pigments that have been binded together using oil and wax, thus creating a soft and greasy medium to create textures with. They come in a vast variety of hardness textures and colors (from very dim to striking neon), and they produce very opaque strokes in their natural state that can be blended or washed down with oil or water. Oil pastel art tends to be not so detail-based and rather focused on movement, color contrast, and shapes, making it a popular medium for abstract and contemporary artists. Oil pastels are also fantastic for creating landscapes, which have both depth and irregular textures that substitute for the less fine details (as well as the presence of the sky -- oil pastels are very easy to blend and can create JAW-DROPPING skies). Even better, young artists can start adapting to this art style very early on: If you've ever drawn with crayon as a child, oil pastel is essentially the higher-grade version of that.",
+    "supplies": "Pastel paper, oil pastels (mainstream brands include Sakura and Pentel Arts) [at least 50 colors], drawing board (optional but recommended), easel (optional), masking tape, large binder clips, blending stumps (tissues and cotton swabs are also great substitutes!)",
+    "difficulty": "6/10",
+    "cost": "$$",
+    "image_1": "image_15",
+    "image_2": "image_16",
+    "image_3": "image_17",
+    "tutorial": "https://www.youtube.com/watch?v=RsehFO5zKhE"
+  },
+  {
+    "style": "Soft Pastel",
+    "description": "Soft pastels are pigments that have been binded together mostly by water. Their texture is slightly chalky, and their color is very intense. Soft pastels are popular for both abstract art and realism, for they can be blended and erased incredibly easily and can create both broad and sharp strokes. Soft pastels can be compared to colored charcoal, and they also come in a variety of forms (sticks, pencils, powder) that accompany various textures of a piece. If you are looking into realism or drawing with color, soft pastel is an excellent medium to practice a wide range of techniques and is very error-friendly -- not to mention super colorful!",
+    "supplies": "Pastel paper, professional-grade or student-grade soft pastels (mainstream brands include Rembrandt and Schminke), drawing board (optional but recommended), blending stumps and tortillons, kneaded eraser, pastel pencils and powder (optional), drawing fixative (to prevent the easy smearing from the pastel medium)",
+    "difficulty": "5/10",
+    "cost": "$$",
+    "image_1": "image_22",
+    "image_2": "image_23",
+    "image_3": "image_24",
+    "tutorial": "https://www.youtube.com/watch?v=ROPbUTN7miU"
+  },
+  {
+    "style": "Pen and Ink",
+    "description": "The most popular media used by people who love doodling in notebooks and on the go, pen and ink has infinite possibilities as it is almost entirely technique and detail-based. Any artist that knows how to create fine details and shade with the medium can create masterpieces with nothing but a ballpoint pen. Even with the fancier tools, pen an ink is one of the most cost-effective and easy-to-use mediums in drawing, being 100% mess-free, permanent, and bold and opaque in just one stroke. The challenge in pen and ink is, of course, the skill and patience along with attention to detail, as pen points are extremely fine and have to be manually shaded with incredible detail. And they're non-erasable!",
+    "supplies": "drawing paper or sketchbook (smooth surface works best for pen and ink), drawing pens (mainstream brands include Sakura Pigma Micron and Copic) [recommended at least 3 tip sizes], pencil (for any outlining before using pen), kneaded eraser (for the pencil), ruler (for straight lines and precise measurements)",
+    "difficulty": "5/10",
+    "cost": "$",
+    "image_1": "image_30",
+    "image_2": "image_28",
+    "image_3": "image_29",
+    "tutorial": "https://www.youtube.com/watch?v=xqnoWXcckU4"
+  },
+  {
+    "style": "Watercolor",
+    "description": "Watercolor, as the name refers to, is a style of painting in which pigments are washed with water to create slightly translucent, delicate, subtle, and detailed artwork. Since it's such a light medium, watercolor is compatible with most types of paper and an excellent choice for illustration and design with its quick-drying and versatile colors and incredible affordability and efficient supplies (most watercolors already come in a palette, and along with a brush and paper, you can go anywhere with your painting supplies!). Professional watercolor paints will be a bit more pricey, but basic watercolors are perfect for both children and artists to practice color theory, detail work, and simple illustration (bring those kid cartoons to life!). Another plus is that watercolors have almost no odor, which makes them very pleasant to work with and calming to paint with as its textures are light and flowing.",
+    "supplies": "Watercolor paints (palette of watercolor cakes or tubes, which are thicker)(mainstream brands include Winsor & Newton and Schmincke), paintbrushes (various sizes of soft brushes), masking fluid (to protect white spaces), masking tape, sponges (optional), watercolor paper or textured bristol paper, palette (if not included with paints already), support board (optional but recommended), watercolor pencils (for finer details and bolder strokes), pencils and kneaded eraser (for basic sketching)",
+    "difficulty": "6/10",
+    "cost": "$$",
+    "image_1": "image_37",
+    "image_2": "image_38",
+    "image_3": "image_39",
+    "tutorial": "https://www.youtube.com/watch?v=tDdfPMTX15Y"
+  },
+  {
+    "style": "Acrylic Paint",
+    "description": "If you're an emerging or beginner artist and want to learn painting techniques and put your creative energy onto a canvas, then acrylic paint is the best medium to start with. If you really like it, it can also be mastered and create brilliant and versatile pieces and add color to both flat and 3D surfaces. Acrylic paint has a very high permanence rating compared to watercolor or oil painting, which means that its colors are very durable and don't fade much over time. There are also a variety of consistencies of acrylic paint: heavy-body acrylics are thick and sturdy, while fluid acrylics are lighter and detailed. The various viscosities make up for the overall opaque color of acrylic paint that can look flat if not added contrast to. The water-based paint also dries much faster than oil paint, so it is very suitable for fast-paced projects and painting on the go (as well as painting studies); it also means that less patient people don't have to wait as long if they want to add a second or third defined layer to an artwork. Acrylic paint comes in an impressive array of colors, from the standard rainbow to all shades of gray to skin tone to metallic to neon to pastel to glow in the dark, which makes it a very fun medium for kids and artists alike to work with, as well as accessible, versatile, and cost-friendly (until the professional level).",
+    "supplies": "Student-grade or artist-grade acrylic paint (mainstream brands include Liquitex and Golden Heavy) [titanium white, cadmium yellow, cadmium orange, cadmium red, alizarin crimson, phthalo green, phthalo blue, dioxazine purple, burnt sienna, and ivory black are required colors], paint brushes (variety of small, medium, and large flat brushes and round brushes), painting canvas or wood or canvas paper, palette, rags or paper towels, jar of water (for brush cleaning), varnish (highly recommended), easel (optional), pencils (for basic sketching)",
+    "difficulty": "7/10",
+    "cost": "$$$",
+    "image_1": "image_1",
+    "image_2": "image_2",
+    "image_3": "image_3",
+    "tutorial": "https://www.youtube.com/watch?v=CFULyTf-RzM"
+  },
+  {
+    "style": "Oil Paint",
+    "description": "If you've ever heard of Leonardo da Vinci, Vincent Van Gogh, or Claude Monet, the famous painters used oil paint to create their masterpieces. A medium with a rich history starting from the 1600s and centuries-old technique, this oil-based paste has a slow drying time and gives room for tons of blending, detail work, layering, and texture. There are two main techniques for oil painting: an opaque grayscale base layer with translucent pigments glazed on top to give the grayscale color, and single, opaque layers of colored oil paint over a canvas tinted with a ground layer. Once the painting dries, a coat of varnish is layered on top to protect the paint, giving oil paintings unmatched crisp details and textural variation. Oil painting takes a lot of patience and attention to technique, but the plus is that you don't have to race against drying time for the paint and have time to build and blend layers and adjust details. It is probably the medium to be mastered for anyone pursuing painting seriously, though it must be learned properly as the materials for oil painting are quite expensive.",
+    "supplies": "Oil paint (mainstream brands include Michael Harding and Sennelier) [Titanium white, ivory black, cadmium red, permanent alizarin crimson, ultramarine blue, cadmium yellow light and cadmium yellow are required colors], paint brushes (minimum required: a set of various sizes of small, medium, and large round brushes), mineral spirits (paint-thinning solution), jar (for brush cleaning), linseed oil, newsprint or rags, palette, painting canvas, pencils (for basic sketching), easel (optional), painting clothes or smock (recommended), varnish",
+    "difficulty": "9/10",
+    "cost": "$$$$",
+    "image_1": "image_12",
+    "image_2": "image_13",
+    "image_3": "image_14",
+    "tutorial": "https://www.youtube.com/watch?v=w3hbZfX0Abg"
+  },
+  {
+    "style": "Gouache",
+    "description": "Gouache is best described as the middle ground between watercolor and acrylic paint, and popped up in the 18th century for historical and artistic purposes. It is used very similarly to watercolor, but its colors are more opaque like that of acrylic paint. This allows gouache to have a wide range of textures and opacities, with the ability to make transparent washes, light layers, and intense, opaque strokes on the same palette. Gouache paint is quite underrated in the world of painting, but those who take on the medium unlock new magical and unparalleled techniques. The variety of opacities gives gouache paintings more depth than the standard watercolor, and it is more price-friendly and versatile than both watercolor and acrylic painting. The only downside is that as a non-mainstream medium, it is a difficult art style for professional artists to pursue and lacks a professional-quality brand line of paints for artists to explore. Nevertheless, if you decide to dive into the world of gouache painting, you will almost certainly not be disappointed and discover new perspectives of painting unique only to gouache.",
+    "supplies": "Gouache paint (mainstream brands include M. Graham and Winsor & Newton) [at least 12 colors], paint brushes (minimum required: set of round brushes and broad brush), watercolor paper or illustration board or bristol board, rags or paper towels, jar of water (for brush cleaning), palette and palette knife",
+    "difficulty": "7/10",
+    "cost": "$$$",
+    "image_1": "image_9",
+    "image_2": "image_10",
+    "image_3": "image_11",
+    "tutorial": "https://www.youtube.com/watch?v=kIep1oWCB1g"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "style": "Sculpture",
+    "description": "Sculpture is the ultimate foundation and reigning king of the 3D art world. Most 3D artists start with sculpture to manifest a skillful 3D imagination and learn how to use shapes and textures to create realistic movement and well-rounded pieces. Sculpture encompasses many different mediums (any solid material that is manipulated from a shapeless medium to a 3D figure counts as sculpture), like bronze, stone, paper mache, wax, glass, and plaster, but the most popular of the list is clay. Whether it be pottery and ceramics, polymer modeling clay, air-dry clay or oil-based clay, each medium has their own unique uses in the real world. Pottery and ceramics have the clearest practical uses, for dishware and vases and teapots; polymer modeling clay is for smaller, more intricate pieces, air-dry clay is a base for larger 3D structures that require lightweight, sturdy shapes, and oil-based clay is a fantastic practicing medium for free forms or new techniques (and is child-friendly!).",
+    "supplies": "Sculpting tools (boxwood, loop and ribbon, needle, sponges, shapers, sgraffito, scrapers) or substitutes (needles, toothbrushes, knives, brushes, etc.), clay (mainstream brands include FIMO [polymer clay], Rocky Mountain [pottery clay], and DAS [air-dry clay]), pottery stand, armature wire (see Wire Modeling) *extra materials required for various forms of sculpting",
+    "difficulty": "8/10",
+    "cost": "$$",
+    "image_1": "image_31",
+    "image_2": "image_32",
+    "image_3": "image_33",
+    "tutorial": "https://www.youtube.com/watch?v=70-mlk7fKV8"
+  },
+  {
+    "style": "Wire Modeling",
+    "description": "Dating back to the ancient Egyptians, wire modeling is a very practical style of art that has roots in architecture and jewelry. Wire modeling is often used with sculpture to create both sturdy and elaborate designs that defy gravity and the laws of physics and logic, but by itself it can create effects just as magnificent. This medium requires incredible 3D imagination and knowledge of geometry and design to create shapes that render depth and detail, as wire has quite a monotonous appearance on its own and flat, repeated patterns won't give much to the movement of a piece. Many artists create a hollow net pattern with wire to create larger, lightweight pieces and give potential to depth by compressing the wire pattern in darker areas. As the material itself (metal wire) is very sturdy, wire modeling is a popular creative element in building design and interior design, lighting and metal gates.",
+    "supplies": "Annealed wire, armature mesh, bead stringing wire (incredibly thin, used for fine structures), colored copper wire, round-nose pliers, flat-nose pliers, needle-nose pliers, parallel pliers",
+    "difficulty": "7/10",
+    "cost": "$",
+    "image_1": "image_40",
+    "image_2": "image_41",
+    "image_3": "image_42",
+    "tutorial": "https://www.youtube.com/watch?v=gEs6vb6mWzY"
+  },
+  {
+    "style": "Embroidery",
+    "description": "Embroidery is the art of ornamenting fabric using a needle and thread and stitching designs straight onto the fabric. It is an incredibly versatile art practice, as fabric has many different uses in the world today and is an easy material to beautify or decorate. Starting the art practice is incredibly easy (many art stores nowadays have embroidering sets for younger artists to practice techniques and follow designs), but there are an infinite amount of techniques that can take quite a long time to master; some of these artists can have lifelong careers in the fashion or fine arts industry for being experienced in embroidery and creative design. Embroidery is a lot like other 2D art forms in the sense that designs are created on a flat surface of fabric, but the stitches themselves have the freedom of being layered and built up to create 3D designs and depth in the fabric. Aside from those who are afraid of or hate handling needles, embroidery is a fantastic way to practice a transition between 2D and 3D imagination and to implement art into everyday objects.",
+    "supplies": "Embroidery hoop (multiple sizes available), embroidery needles (come in sizes 1-12; beginners should start with 12), scissors, embroidery floss (at least 12 colors), woven fabric (various types and styles, must be larger than embroidery hoop), other threads (silk threads, wool, rayon floss, satin floss, etc.), beads (optional)",
+    "difficulty": "6/10",
+    "cost": "$$",
+    "image_1": "image_34",
+    "image_2": "image_35",
+    "image_3": "image_36",
+    "tutorial": "https://www.youtube.com/watch?v=2ATJuHN-C9A"
+  },
+  {
+    "style": "Wood Carving",
+    "description": "Wood carving is an art form that dates back to before history was even written down, holding rich historical and cultural elements in the practices and art forms of the media. It requires architectural skills, a 3D imagination, precision, and arm strength to master this art, but it can be implemented in hundreds of different things in our lives and can prove to be quite a practical and business-friendly art. Starting a wood carving station is quite affordable as it consists mostly of just tools and wood, but skills will take quite some time and patience to learn well. It's also not a recommended introductory style for new 3D artists and children due to the safety hazards and difficult control of sharp objects on solid wood. Nonetheless, the results are worth the hassle and artists can create both brilliant 3D designs and textured reliefs on flat surfaces to dazzle furniture and decorate spaces.",
+    "supplies": "Chip carving knife, carpenter chisels, gouges (U, V, bent, and spoon), skewed chisel, mallet, wood (numerous types suited for carving; basswood or butternut [beginner], mahogany or walnut [artist], cherry or maple [professional])",
+    "difficulty": "10/10",
+    "cost": "$$",
+    "image_1": "image_4",
+    "image_2": "image_5",
+    "image_3": "image_18",
+    "tutorial": "https://www.youtube.com/watch?v=b2cW7BuqW70"
+  }
+]
